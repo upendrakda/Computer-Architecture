@@ -1,4 +1,4 @@
-# 🖥️ Computer Organization & Binary Arithmetic Programs in C
+# 🖥️ Computer Organization & Binary Arithmetic
 
 ## 📌 Introduction
 This repository contains C programs that implement fundamental binary number system operations and computer arithmetic algorithms used in Computer Organization and Architecture (COA).
